@@ -1,0 +1,217 @@
+/* first section */
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin:80px auto 48px auto ;
+    width: 1,336px;
+    height: 178px;
+}
+.team-text {
+    font-size: 16px;
+    line-height: 26px;
+    font-family: 'Inter Semibold';
+    font-weight: 600;
+    font-style: normal;
+}
+.clonify-text {
+    margin-top: 4px;
+    margin-bottom: 16px;
+    font-size: 54px;
+    line-height: 62px;
+    font-family: 'Inter Semibold';
+    font-weight: 600;
+    font-style: normal;
+}
+.child-text {
+    width: 760px;
+    height: 70px;
+}
+.lorem-text {
+    font-size: 20px;
+    line-height: 35px;
+    font-family: 'Inter';
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* second section */
+
+.parent-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-bottom: 48px;
+    width: 1,336px;
+    height: 908px;
+}
+.child-div {
+    width: 310px;
+    height: 430px;
+    border: 1px solid #EAECF0;
+}
+.photo {
+    width: 310px;
+    height: 230px;
+}
+.name {
+    font-size: 18px;
+    line-height: 30px;
+    color: #282828;
+    margin: 16px 0 4px 16px;
+    font-family: 'Inter Samibold';
+    font-weight: 600;
+    font-style: normal;
+}
+.profession {
+    font-size: 14px;
+    line-height: 22px;
+    color: #3E3E59;
+    margin: 0 0 8px 16px;
+    font-family: 'Inter';
+    font-weight: normal;
+    font-style: normal;
+}
+.description {
+    font-size: 14px;
+    line-height: 22px;
+    color: #5F6980;
+    margin: 0 0 24px 16px;
+    font-family: 'Inter';
+    font-weight: normal;
+    font-style: normal;
+}
+.for-margin {
+    margin-bottom: 48px;
+}
+
+    /* icons */
+
+.icon-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 140px;
+    height: 36px;
+    margin: 24px 154px 16px 16px;
+}
+.icon-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F2F4F7;
+    border-radius: 50px;
+    width: 36px;
+    height: 36px;
+}
+.icon-facebook {
+    width: 8.25px;
+    height: 13.5px;
+    border: 1.13px solid #282828;
+}
+.icon-instagram {
+    width: 13.13px;
+    height: 13.13px;
+    color: #282828;
+}
+.icon-twitter {
+    width: 15px;
+    height: 12.02px;
+    color: #282828;
+}
+
+/* footer */
+
+.footer-div {
+    display: flex;
+    justify-content: center;
+    width: 1,440px;
+    height: 512px;
+    background-color: #53535354;
+}
+.footer-child {
+    display: flex;
+    margin-top: 108px;
+    width: 1306px;
+    height: 223px;
+}
+.grandson1 {
+    margin-right: 144.95px;
+    width: 318.05px;
+    height: 221px;
+}
+.f-photo {
+    width: 100px;
+    height: 64px;
+    margin-bottom: 32px;
+}
+.f-text {
+    color: #535353;
+    font-size: 14px;
+    line-height: 16.94px;
+    margin-bottom: 28px;
+    
+}
+.grandson2 {
+    margin-right: 254px;
+    width: 136px;
+    height: 223px;
+}
+.grandson3 {
+    margin-right: 147px;
+    width: 199px;
+    height: 223px;
+}
+.grandson4 {
+    width: 107px;
+    height: 127.45px;
+}
+.facebook {
+    margin-right: 16px;
+    width: 20px;
+    height: 19.95px;
+    color: #1E1E1E;
+}
+.instagram {
+    margin-right: 16px;
+    width: 18.75px;
+    height: 18.75px;
+    color: #1E1E1E;
+}
+.linkidin {
+    width: 19.89px;
+    height: 19.48px;
+    color: #1E1E1E;
+}
+.footer-title {
+    font-size: 20px;
+    line-height: 24.2px;
+    color: #1E1E1E;
+    margin-bottom: 71px;
+    font-family: 'Inter Samibold';
+    font-weight: 600;
+    font-style: normal;
+}
+.li-item{
+    margin-top: 30px;
+}
+.right-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 45px;
+    background-color: #054A68;
+    margin-top: 58.45px;
+}
+.div-text {
+    font-size: 14px;
+    line-height: 16.94;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-weight: normal;
+    font-style: normal;
+}
